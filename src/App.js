@@ -1,6 +1,4 @@
 import Todo from './components/Todo';
-import Modal from './components/Modal';
-import Backdrop from './components/Todo';
 
 function App() {
     return ( <
@@ -12,10 +10,6 @@ function App() {
         Todo text = 'Master React' / >
         <
         Todo text = 'Explore THe Full React Course' / >
-        <
-        Modal / >
-        <
-        Backdrop / >
         <
         /div>
     );
